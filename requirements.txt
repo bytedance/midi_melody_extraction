@@ -1,0 +1,8 @@
+torch ~= 1.12.1
+miditoolkit >= 0.1.16
+numpy >= 1.23.3
+scipy >= 1.9.2
+PyYAML >= 6.0
+music21 ~= 6.7.1
+mir_eval >= 0.7
+logger
