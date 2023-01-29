@@ -1,4 +1,5 @@
-This repository contains a basic version of our code related to the model presented in the ISMIR2022 paper. 
+This repository contains a basic version of our code related to the model presented in the ISMIR2022 paper:  
+[A deep learning method for melody extraction from a polyphonic symbolic music representation](https://archives.ismir.net/ismir2022/paper/000091.pdf).  
 The data corpus that it is based on can be found [here](https://github.com/music-x-lab/POP909-Dataset/tree/master/POP909).   
 
 ## Main end-to-end script
